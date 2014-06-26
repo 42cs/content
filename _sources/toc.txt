@@ -1,0 +1,40 @@
+.. _t_o_c:
+
+Table of Contents
+:::::::::::::::::
+
+
+Course Information
+---------
+.. toctree::
+   :maxdepth: 2
+
+   CourseInfo/index.rst
+
+Reasoning (Week 1)
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   Debugging/app_b.rst
+
+   
+Debugging (Week 2)
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   Debugging/errorsAndDebug.rst
+
+
+Enviroment Information
+---------
+
+.. toctree::
+   :maxdepth: 2
+
+   BookLabs/pythonshell.rst
+   
+
